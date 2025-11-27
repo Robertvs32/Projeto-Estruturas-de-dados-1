@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1763775311 source:c:\users\rober\desktop\projeto-eda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+	"manipularLista.h"
+
+1763775167 c:\users\rober\desktop\projeto-eda\listaligada.h
+
+1763775515 source:c:\users\rober\desktop\projeto-eda\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1763770663 source:c:\users\rober\desktop\projeto-eda\manipularlista.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1763769545 c:\users\rober\desktop\projeto-eda\manipularlista.h
+
+1764217956 source:c:\users\rober\onedrive\desktop\projeto-eda\projeto-eda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1764216718 c:\users\rober\onedrive\desktop\projeto-eda\projeto-eda\listaligada.h
+
+1764201131 c:\users\rober\onedrive\desktop\projeto-eda\projeto-eda\manipularlista.h
+
+1764217851 source:c:\users\rober\onedrive\desktop\projeto-eda\projeto-eda\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+	<string.h>
+
+1764201200 source:c:\users\rober\onedrive\desktop\projeto-eda\projeto-eda\manipularlista.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
